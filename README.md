@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # 👋 ¡Hola! Soy Lianni Suarez Amaya
 
@@ -15,17 +15,12 @@ React · CSS · HTML · JavaScript · JSX · Git · VS Code
 
 ---
 
-## 📂 Proyectos
-- **[Weather App](https://github.com/LianniSuarezAmaya/weather-app)** - Aplicación del clima con API
-- **[Task Manager](https://github.com/LianniSuarezAmaya/task-manager)** - Gestor de tareas con localStorage
-- **[E-commerce](https://github.com/LianniSuarezAmaya/ecommerce)** - Tienda online
 
----
 
 ## 📫 Contacto
-LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)  
-Email: tu-email@ejemplo.com  
-GitHub: [@LianniSuarezAmaya](https://github.com/LianniSuarezAmaya)
+LinkedIn: linkedin.com/in/lianni-suarez-2773063a8
+Email: liadev2006@ejemplo.com  
+GitHub: https://github.com/LianniSuarezAmaya
 
 ---
 
