@@ -19,7 +19,9 @@ React · CSS · HTML · JavaScript · JSX · Git · VS Code
 
 ## 📫 Contacto
 LinkedIn: linkedin.com/in/lianni-suarez-2773063a8
+
 Email: liadev2006@ejemplo.com  
+
 GitHub: https://github.com/LianniSuarezAmaya
 
 ---
