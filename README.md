@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # 👋 ¡Hola! Soy Lianni Suarez Amaya
 
 ### 🚀 Frontend Developer | React Specialist
@@ -31,4 +30,4 @@ GitHub: [@LianniSuarezAmaya](https://github.com/LianniSuarezAmaya)
 ---
 
 > Transformando ideas en experiencias digitales
--->
+
