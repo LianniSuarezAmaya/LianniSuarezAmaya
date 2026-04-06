@@ -2,7 +2,7 @@
 
 #  ¡Hola! Soy Lianni 😎
 
-### 🚀 Frontend Developer | React Specialist
+## 🚀 Frontend Developer | React Specialist
 
 💻 Desarrolladora frontend especializada en React
 🎓 Estudiante de Ingeniería en Ciencias Informáticas  
@@ -12,7 +12,7 @@
 
 ## 🛠️ Tecnologías
       React · CSS · HTML · JavaScript · JSX · Git 
- TypeScript · Tailwind · Zod · Zustand · TanStack Query
+ TypeScript · Tailwind · Zod · Zustand · TanStackQuery
 
 ---
 
