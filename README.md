@@ -1,26 +1,30 @@
 
 
-# 👋 ¡Hola! Soy Lianni Suarez Amaya
+#  ¡Hola! Soy Lianni 😎
 
 ### 🚀 Frontend Developer | React Specialist
 
-💻 Desarrolladora frontend especializada en React, JSX y CSS  
+💻 Desarrolladora frontend especializada en React
 🎓 Estudiante de Ingeniería en Ciencias Informáticas  
 ✨ Creando interfaces modernas y responsivas
 
 ---
 
 ## 🛠️ Tecnologías
-React · CSS · HTML · JavaScript · JSX · Git · VS Code
+      React · CSS · HTML · JavaScript · JSX · Git 
+ TypeScript · Tailwind · Zod · Zustand · TanStack Query
 
 ---
 
+## 🧠 Mi enfoque 
+Creo en soluciones que equilibran la funcionalidad técnica con la experiencia de usuario. 
 
+---
 
 ## 📫 Contacto
 LinkedIn: linkedin.com/in/lianni-suarez-2773063a8
 
-Email: liadev2006@ejemplo.com  
+Email: liadev2006@gmail.com  
 
 GitHub: https://github.com/LianniSuarezAmaya
 
